@@ -5,8 +5,9 @@
 1. [Membres du groupe](#membres-du-groupe)
 2. [Etapes du projet](#etapes-du-projet)
 3. [Affichage des images](#docker-images)
-4. [Inspection des networks](#inspection-des-network)
-5. [Images sur docker hub](#mages-sur-docker-hub)
+4. [Inspection des networks](#inspection-des-networks)
+5. [Images sur docker hub](#images-sur-docker-hub)
+5. [Répertoire privé](#répertoire-privé)
 
 ## Membres du groupe
 
@@ -43,4 +44,10 @@ Affichage des images
 ### Images sur docker hub
 
 ![image4](images/image4.png)
+
+### Répertoire privé
+
+Images dans notre répertoire privé
+
+![image5](images/image5.png)
 
