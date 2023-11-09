@@ -8,6 +8,7 @@
 4. [Inspection des networks](#inspection-des-networks)
 5. [Images sur docker hub](#images-sur-docker-hub)
 5. [Répertoire privé](#répertoire-privé)
+5. [Liste des containers](#liste-des-containers)
 
 ## Membres du groupe
 
@@ -47,7 +48,12 @@ Affichage des images
 
 ### Répertoire privé
 
-Images dans notre répertoire privé
+Images dans notre répertoire privé.
 
 ![image5](images/image5.png)
 
+### Liste des containers
+
+Affichage des containers qui tournent.
+
+![image6](images/image6.png)
