@@ -1,4 +1,4 @@
-# WHO RULE THE WORLD ? CATs <img src="images/cats.jpg" alt="cats" width="50" /> or DOGs <img src="images/dogs.jpg" alt="dogs" width="50" /> ?
+# WHO RULE THE WORLD ? CATs <img src="images/cat.jpg" alt="cats" width="60" /> or DOGs <img src="images/dog.jpg" alt="dogs" width="60" /> ?
 
 SOMMAIRE
 
@@ -18,6 +18,5 @@ SOMMAIRE
 
 ![capture1](images/image.png)
 
-<img src="images/image.png" alt="capture1" width="300" />
 
 
