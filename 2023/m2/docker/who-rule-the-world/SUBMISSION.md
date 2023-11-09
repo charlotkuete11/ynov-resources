@@ -1,4 +1,4 @@
-# WHO RULE THE WORLD ? CATs ![cats](images/cats.jpg){width=50} or DOGs ![cats](images/dogs.jpg){width=50} ?
+# WHO RULE THE WORLD ? CATs <img src="images/cats.jpg" alt="cats" width="50" /> or DOGs <img src="images/dogs.jpg" alt="dogs" width="50" /> ?
 
 SOMMAIRE
 
@@ -8,7 +8,7 @@ SOMMAIRE
 4. [Membres du groupe](#Membres-du-groupeee:)
 5. [Membres du groupe](#Membres-du-groupee:)
 
-## Membres du groupe :
+## Membres du groupe
 
 1. KUETCHE Charlot Junior
 2. MBABOU Romario Ulrich
@@ -17,5 +17,7 @@ SOMMAIRE
 ### Section 1
 
 ![capture1](images/image.png)
-![capture1](images/image.png){width=300}
+
+<img src="images/image.png" alt="capture1" width="300" />
+
 
